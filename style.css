@@ -1,0 +1,33 @@
+.firstdiv{width: 47%;float: left;padding-left: 18px;margin: 1%;}
+img{width: 100%;}
+body{margin: 0%;}
+.org{color: palevioletred;font-size: 90px;height: 50px;}
+h1{font-size: 30px;height: 3px;margin-top: 15px;}
+.section1{background:url(all-images/160-1605161_cities-background-for-footer-skyline-hd-png-download.png);background-repeat: no-repeat; background-position:left;background-size: 100%;width: 1900px;height: 800px;}
+.org:hover{color: brown;}
+h1:hover{color: rgb(6, 89, 134);}
+#a{border: 2px solid rgb(169, 8, 163);background-color: orchid;border-radius: 10px;padding-left: 3%;padding-right: 3%;padding-top: 1%;padding-bottom: 1%;margin-top: 5%;color: rgb(105, 245, 23);}
+#a:hover{background-color: rgb(171, 39, 232);color: white;}
+#a{margin-top: 50px;}
+.div2{width:48%;float: left;}
+.a{border: 2px solid orchid;background-color: rgb(37, 26, 244);border-radius: 10px;padding-left: 3%;padding-right: 3%;padding-top: 1%;padding-bottom: 1%;margin-top: 5%;color: aliceblue;}
+.p1{margin-top: 5%;margin-bottom: 5%;font-size: 20px;}
+.a:hover{background-color: rgb(171, 39, 232);color: rgb(43, 179, 238);}
+.section2{background-image: url(all-images/261-2610171_enteris-biopharma-footer-swoosh-transparent-white-swoosh-png.png);width:1900px;height: 800px;}
+.section3{background-image: url(all-images/whiteimg.png);width: 1900px;height:200px;}
+.print{text-align: center;padding-top: 5%;font-size: 50px;}
+.img2{width: 33%;float: left;}
+#img2:hover{border-image-width: 10px;}
+.section5{background-image: url(all-images/white-swirl-designs-png-transparent-png.png);width: 1900px;height: 500px;}
+#client{text-align: center;padding-top: 22%;font-size: 50px;}
+#problem{height: 380px;}
+.last{text-align: center;}
+#last{font-size: 20px;}
+#last1{font-size: 12px;}
+#last2{text-align: center;font-size: 15px;}
+#last2:hover{color: rgb(130, 172, 48)}
+.button{text-align: center;background-color: rgb(235, 82, 108);margin-left: 32%;color: aliceblue;border-radius: 10px;padding:2% 10% 2% 10%;font-size: 20px;}
+.sec9{width: 1900px;height: 200px;}
+img{height: 100%;}
+#sec10{text-align: center;font-size: 10px;}
+
